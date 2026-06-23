@@ -1,0 +1,317 @@
+[
+  {
+    "term": "error_msg_1000",
+    "definition": "Ověření se nezdařilo.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1001",
+    "definition": "K tomuto zdroji nemáte přístup.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1002",
+    "definition": "K používání této služby nemáte oprávnění.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1003",
+    "definition": "Je vyžadován přístupový token. Zkuste to prosím znovu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1004",
+    "definition": "Neplatný přístupový token.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1005",
+    "definition": "Platnost přístupového tokenu vypršela.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1006",
+    "definition": "Nesprávné heslo. Zkuste to prosím znovu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1007",
+    "definition": "Přihlášení se nezdařilo. Špatné heslo nebo číslo optiky.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1008",
+    "definition": "Přihlášení k sociální síti se nezdařilo.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1009",
+    "definition": "Sociální přihlášení není registrováno.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1010",
+    "definition": "Potvrďte prosím svůj e-mail a zkuste se znovu přihlásit.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2000",
+    "definition": "Špatný požadavek. Zkontrolujte prosím tělo požadavku a zkuste to znovu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2001",
+    "definition": "Neplatné parametry.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2002",
+    "definition": "Neplatný požadavek.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2003",
+    "definition": "Neplatný záznam.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2004",
+    "definition": "Není uvedeno žádné datum.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2005",
+    "definition": "ID dávky je povinné.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2006",
+    "definition": "ID dávky je již použito.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2007",
+    "definition": "Pro toto ID šarže nebyla nalezena žádná data analýzy.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3000",
+    "definition": "Zdroj nenalezen",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3001",
+    "definition": "Zákazník nenalezen. Kontaktujte prosím podporu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3002",
+    "definition": "Tyto údaje již byly zpracovány. Prosím obnovte.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3003",
+    "definition": "Tento e-mail je již pro tuto aplikaci zaregistrován.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4000",
+    "definition": "Jsou vyžadovány přihlašovací údaje k produktu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4001",
+    "definition": "Zkontrolujte informace o vašem produktu nebo kontaktujte podporu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4002",
+    "definition": "Zařízení s tímto optickým číslem je již zaregistrováno.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4003",
+    "definition": "Toto zařízení je již registrováno jiným uživatelem. Kontaktujte prosím admina.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4004",
+    "definition": "Při aktualizaci licence došlo k chybě. Kontaktujte prosím podporu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4005",
+    "definition": "Při aktualizaci licence došlo k chybě. Kontaktujte prosím admina.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5000",
+    "definition": "Konzultant nebyl vytvořen.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5001",
+    "definition": "Změna hesla se nezdařila. Zkuste to prosím znovu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5002",
+    "definition": "Operace se z neznámého důvodu nezdařila.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5003",
+    "definition": "Cena licence nebyla pro tuto aplikaci správcem definována.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_6000",
+    "definition": "Zkuste to prosím znovu. If the issue persists, report it.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_6002",
+    "definition": "Došlo k neočekávané chybě.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  }
+]

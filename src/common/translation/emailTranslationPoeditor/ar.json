@@ -1,0 +1,679 @@
+﻿{
+  "ar": [
+    {
+      "term": "confirm_email_title",
+      "definition": "魔娩??卍 魔? - 魔粒??膜 晩??碼? 碼?磨邈?膜 碼?瑪??魔邈???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "魔粒??膜 晩??碼? 碼?磨邈?膜 碼?瑪??魔邈???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "?邈幕磨?碼 {{{name}}}? 娩?邈?碼 ?碼卍魔漠膜碼??  碼?魔慢磨??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "?邈寞? 魔粒??膜 磨邈?膜? 碼?瑪??魔邈??? ??魔碼磨晩馬 碼卍魔漠膜碼? 碼?魔慢磨??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "巒?幕馬 碼?膜晩?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "魔粒??膜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "?莫碼 碼?磨邈?膜 碼?瑪??魔邈??? ?漠巒巒 ?曼邈彎 碼?瑪娩晩碼邈碼魔 ??慢. 瑪莫碼 ?碼?魔 ?膜?? 粒? 粒卍痲?馬? ?碼 魔魔邈膜膜 ?? 碼?碼魔巒碼? 磨?碼 晩??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "?莫碼 磨邈?膜 瑪??魔邈??? ???娩粒 笠???碼. ?邈寞? 晩膜? 碼?邈膜. ??碼卍魔?卍碼邈碼魔 ?碼?魔晩???碼魔? ?邈寞? 碼?碼魔巒碼? 磨?碼 晩??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "碼?晩??碼?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "Example address, City, Country",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "碼?磨邈?膜 碼?瑪??魔邈???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "碼??碼魔?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "魔娩??卍 魔? - 瑪巒?碼幕 ?娩??馬 碼?漠碼膜?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "瑪巒?碼幕 ?娩??馬 碼?漠碼膜?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "??膜 粒? ?晩魔莫邈 晩? ?娩碼?? 碼?漠碼膜? 碼?粒漠?邈馬 碼?魔? 邈磨?碼 卍磨磨魔 ?? 瑪万晩碼寞?碼. ??晩??? 磨粒? 寞??晩 碼??娩??碼魔 ?膜 魔? 瑪巒?碼幕?碼 ?????? 碼?碼卍魔?邈碼邈 ?? 碼卍魔漠膜碼? 漠膜?魔?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "??膜 粒? ?磨?曼? 磨幕碼?馬 碼?魔邈漠?巒 碼?幕碼??馬:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "邈?? 碼?寞?碼万",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "碼卍? 碼?磨邈?碼?寞",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "瑪巒膜碼邈 碼?磨邈?碼?寞",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "魔碼邈?漠 碼?魔?晩??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "魔碼邈?漠 碼?碼?魔?碼立",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "碼?粒?碼? 碼??魔磨??馬",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "碼卍? 碼?寞?碼万",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "幕碼?馬 碼?魔邈漠?巒",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "??晩?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "曼?邈 ??晩?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "笠漠邈 魔幕膜?麻",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "卍?? ?魔? 瑪??碼? 碼?漠膜?馬 ?? 粒寞? 粒晩?碼? 碼?巒?碼?馬 碼?魔碼??馬:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "?邈寞? 碼?魔幕?? ?邈馬 粒漠邈? 磨晩膜 碼?魔?碼立 碼?巒?碼?馬.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "?晩魔莫邈 晩? 碼?瑪万晩碼寞 ??娩?邈? 晩?? 巒磨邈?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "?邈?? 膜晩? 魔娩??卍 魔?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "寞?碼万? ??晩? 碼?笠?!",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "??膜 粒????碼 慢?磨 碼?魔?晩?? 碼?漠碼巒 磨? 磨碼?魔?碼巒?? 碼?魔碼??馬:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "?邈寞? ??碼幕挽馬 粒? 碼?寞?碼万 ???? 邈磨慢? 磨?晩邈?? ?碼幕膜 ??慢. 晩膜? 碼?魔慢碼磨? 磨?? 邈?? 碼?寞?碼万 ?碼??晩邈?? 卍?摩膜? 瑪?? 幕挽邈 碼卍魔漠膜碼? 碼?魔慢磨??? ?莫碼 魔粒?膜 ?? 魔莫?邈 ?晩邈?? ????馬 碼??邈?邈 ?邈?? 碼?寞?碼万.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "???馬 碼??邈?邈 碼?寞膜?膜馬",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "魔粒??膜 ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "碼卍魔晩碼膜馬 ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "碼?魔幕?? ?? 瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "慢?磨? ?瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈 ??膜 碼?魔粒??膜. ?邈寞? 碼?彎曼慢 晩?? 碼?邈碼磨慢 粒膜?碼? ???魔碼磨晩馬:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "?莫碼 碼?邈碼磨慢 巒碼?幕 ??膜馬 12 卍碼晩馬 ??慢 ?? ??魔 碼?碼卍魔?碼?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "晩万?万? {{{name}}}? 娩?邈?碼 ?碼卍魔漠膜碼??  碼?魔慢磨??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "巒?幕馬 碼?膜晩?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "瑪娩晩碼邈 瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "?邈幕磨?碼 {{{name}}}? 娩?邈?碼 ?碼卍魔漠膜碼?? 碼?魔慢磨??}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "??膜 慢?磨魔 瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈 ?幕卍碼磨?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "???馬 碼??邈?邈 碼??摩?魔馬 碼?漠碼巒馬 磨? ??: {{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "?邈寞? ?卍漠 ???馬 碼??邈?邈 晩?膜 魔卍寞?? 碼?膜漠?? 瑪?? 碼?魔慢磨??. 碼莫?磨 瑪?? 碼?瑪晩膜碼膜碼魔? ?碼彎曼慢 晩?? ?卍魔漠膜? 碼?巒碼??? ?粒晩膜 魔晩??? ???馬 碼??邈?邈.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "?寞碼幕 瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "魔?魔 瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈 磨?寞碼幕 ?????? 碼?碼卍魔?邈碼邈 ?? 碼卍魔漠膜碼? 碼?漠膜?馬.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "魔? 碼?魔幕?? ?? 碼?磨邈?膜 碼?瑪??魔邈???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "魔? 碼?魔幕?? ?? 晩??碼? 磨邈?膜? 碼?瑪??魔邈??? 磨?寞碼幕.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "?邈寞? 瑪曼?碼? 碼??碼?莫馬? ?????? 碼?晩?膜馬 瑪?? 碼?漠膜?馬 碼?卍碼磨?馬 ?碼?碼卍魔?魔碼晩.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "?? ?魔? 碼?魔幕?? ?? 碼?磨邈?膜 碼?瑪??魔邈???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "?邈寞? 碼?碼魔巒碼? 磨?卍摩?? 碼??挽碼? 碼?漠碼巒 磨?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "碼卍魔晩碼膜馬 ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "?邈幕磨?碼 {{{name}}},",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "?邈幕磨?碼?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "磨?碼 ??彎?晩",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "?晩 粒慢?磨 碼?魔幕?碼魔",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "瑪娩晩碼邈 磨碼?魔?碼立 碼?魔邈漠?巒",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "?娩? 碼?魔?晩??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "磨邈?膜 碼?魔粒??膜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "瑪巒?碼幕 ?娩??馬 碼?漠碼膜?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "{{{app_name}}} ?魔?寞馬 魔幕??? ",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "?邈寞? 碼???邈 晩?? 碼?万邈 粒膜?碼? ?晩邈彎 ?魔?寞馬 碼?魔幕??? 碼?魔?巒???馬 ?? 漠膜?馬 {{{app_name}}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "晩邈彎",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - 魔粒??膜 碼?磨邈?膜 碼?瑪??魔邈???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - 魔?魔 瑪晩碼膜馬 魔晩??? ???馬 碼??邈?邈 磨?寞碼幕",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - 碼卍魔晩碼膜馬 ???馬 碼??邈?邈",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - 魔?晩?? 碼?寞?碼万",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "粒膜漠? ???馬 碼??邈?邈 碼?寞膜?膜馬",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "魔粒??膜 ???馬 碼??邈?邈 碼?寞膜?膜馬",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}

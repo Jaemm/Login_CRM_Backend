@@ -1,0 +1,317 @@
+[
+  {
+    "term": "error_msg_1000",
+    "definition": "Authentifizierung fehlgeschlagen.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1001",
+    "definition": "Sie haben keinen Zugriff auf diese Ressource.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1002",
+    "definition": "Sie sind nicht berechtigt, diesen Dienst zu nutzen.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1003",
+    "definition": "Zugriffstoken ist erforderlich. Bitte versuchen Sie es erneut.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1004",
+    "definition": "Ungültiges Zugriffstoken.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1005",
+    "definition": "Das Zugriffstoken ist abgelaufen.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1006",
+    "definition": "Falsches Passwort. Bitte versuchen Sie es erneut.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1007",
+    "definition": "Fehler bei der Anmeldung. Falsches Passwort oder falsche Optiknummer.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1008",
+    "definition": "Social-Login ist fehlgeschlagen.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1009",
+    "definition": "Social Login ist nicht registriert.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1010",
+    "definition": "Bitte bestätigen Sie Ihre E-Mail-Adresse und versuchen Sie erneut, sich anzumelden.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2000",
+    "definition": "Ungültige Anforderung. Bitte überprüfen Sie den Anfragetext und versuchen Sie es erneut.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2001",
+    "definition": "Ungültige Parameter.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2002",
+    "definition": "Ungültige Anfrage.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2003",
+    "definition": "Ungültiger Datensatz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2004",
+    "definition": "Kein Datum angegeben.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2005",
+    "definition": "Chargen-ID ist erforderlich.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2006",
+    "definition": "Die Chargen-ID wird bereits verwendet.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2007",
+    "definition": "Für diese Chargen-ID wurden keine Analysedaten gefunden.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3000",
+    "definition": "Ressource nicht gefunden",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3001",
+    "definition": "Kunde nicht gefunden. Bitte wenden Sie sich an den Support.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3002",
+    "definition": "Diese Daten wurden bereits verarbeitet. Bitte aktualisieren.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3003",
+    "definition": "Diese E-Mail-Adresse ist für diese Anwendung bereits registriert.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4000",
+    "definition": "Produktzugangsdaten sind erforderlich.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4001",
+    "definition": "Überprüfen Sie Ihre Produktinformationen oder wenden Sie sich an den Support.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4002",
+    "definition": "Ein Gerät mit dieser Optiknummer ist bereits registriert.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4003",
+    "definition": "Dieses Gerät ist bereits von einem anderen Benutzer registriert. Bitte kontaktieren Sie den Administrator.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4004",
+    "definition": "Fehler beim Aktualisieren der Lizenz. Bitte wenden Sie sich an den Support.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4005",
+    "definition": "Fehler beim Aktualisieren der Lizenz. Bitte kontaktieren Sie den Administrator.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5000",
+    "definition": "Berater nicht erstellt.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5001",
+    "definition": "Die Passwortänderung ist fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5002",
+    "definition": "Der Vorgang ist aus unbekanntem Grund fehlgeschlagen.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5003",
+    "definition": "Die Lizenzkosten wurden vom Administrator für diese Anwendung nicht definiert.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_6000",
+    "definition": "Bitte versuchen Sie es erneut. Wenn das Problem weiterhin besteht, melden Sie es.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_6002",
+    "definition": "Es ist ein unerwarteter Fehler aufgetreten.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  }
+]

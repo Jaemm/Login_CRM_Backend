@@ -1,0 +1,317 @@
+[
+  {
+    "term": "error_msg_1000",
+    "definition": "Kimlik doğrulama başarısız oldu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1001",
+    "definition": "Bu kaynağa erişiminiz yok.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1002",
+    "definition": "Bu hizmeti kullanma yetkiniz yok.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1003",
+    "definition": "Erişim belirteci gerekli. Lütfen tekrar deneyin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1004",
+    "definition": "Geçersiz erişim belirteci.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1005",
+    "definition": "Erişim belirtecinin süresi doldu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1006",
+    "definition": "Yanlış şifre. Lütfen tekrar deneyin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1007",
+    "definition": "Giriş başarısız oldu. Yanlış şifre veya optik numara.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1008",
+    "definition": "Sosyal giriş başarısız oldu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1009",
+    "definition": "Sosyal giriş kayıtlı değil.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1010",
+    "definition": "Lütfen e-postanızı onaylayın ve tekrar giriş yapmayı deneyin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2000",
+    "definition": "Geçersiz istek. Lütfen istek metnini kontrol edin ve tekrar deneyin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2001",
+    "definition": "Geçersiz parametreler.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2002",
+    "definition": "Geçersiz istek.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2003",
+    "definition": "Geçersiz kayıt.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2004",
+    "definition": "Tarih belirtilmedi.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2005",
+    "definition": "Toplu kimlik gerekli.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2006",
+    "definition": "Toplu kimlik zaten kullanılıyor.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2007",
+    "definition": "Bu parti kimliği için analiz verisi bulunamadı.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3000",
+    "definition": "Kaynak bulunamadı",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3001",
+    "definition": "Müşteri bulunamadı. Lütfen desteğe başvurun.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3002",
+    "definition": "Bu veriler zaten işlendi. Lütfen yenileyin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3003",
+    "definition": "Bu e-posta adresi bu uygulama için zaten kayıtlı.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4000",
+    "definition": "Ürün kimlik bilgileri gereklidir.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_4001",
+    "definition": "Ürün bilgilerinizi kontrol edin veya destek ekibiyle iletişime geçin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_4002",
+    "definition": "Bu optik numarasına sahip bir cihaz zaten kayıtlı.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_4003",
+    "definition": "Bu cihaz zaten başka bir kullanıcı tarafından kayıtlı. Lütfen yöneticiyle iletişime geçin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_4004",
+    "definition": "Lisans güncellenirken hata oluştu. Lütfen desteğe başvurun.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_4005",
+    "definition": "Lisans güncellenirken hata oluştu. Lütfen yöneticiyle iletişime geçin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5000",
+    "definition": "Danışman oluşturulmadı.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5001",
+    "definition": "Şifre değişikliği başarısız oldu. Lütfen tekrar deneyin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5002",
+    "definition": "Bilinmeyen bir nedenden dolayı işlem başarısız oldu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5003",
+    "definition": "Bu uygulama için lisans maliyeti yönetici tarafından tanımlanmadı.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_6000",
+    "definition": "Lütfen tekrar deneyin. Sorun devam ederse bildirin.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_6002",
+    "definition": "Beklenmeyen bir hata oluştu.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  }
+]

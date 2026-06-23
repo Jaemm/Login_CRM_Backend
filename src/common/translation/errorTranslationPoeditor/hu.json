@@ -1,0 +1,317 @@
+[
+  {
+    "term": "error_msg_1000",
+    "definition": "A hitelesítés nem sikerült.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1001",
+    "definition": "Nincs hozzáférése ehhez az erőforráshoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1002",
+    "definition": "Ön nem jogosult ennek a szolgáltatásnak a használatára.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1003",
+    "definition": "Hozzáférési token szükséges. Kérjük, próbálja újra.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1004",
+    "definition": "Érvénytelen hozzáférési token.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1005",
+    "definition": "A hozzáférési token lejárt.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1006",
+    "definition": "Helytelen jelszó. Kérjük, próbálja újra.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1007",
+    "definition": "Sikertelen bejelentkezés. Hibás jelszó vagy optikai szám.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1008",
+    "definition": "A közösségi bejelentkezés nem sikerült.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1009",
+    "definition": "A közösségi bejelentkezés nincs regisztrálva.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1010",
+    "definition": "Kérjük, erősítse meg e-mail-címét, és próbáljon meg újra bejelentkezni.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2000",
+    "definition": "Rossz kérés. Kérjük, ellenőrizze a kérelem törzsét, és próbálja újra.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2001",
+    "definition": "Érvénytelen paraméterek.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2002",
+    "definition": "Érvénytelen kérés.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2003",
+    "definition": "Érvénytelen rekord.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2004",
+    "definition": "Nincs megadva dátum.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2005",
+    "definition": "A kötegazonosító szükséges.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2006",
+    "definition": "A kötegazonosító már használatban van.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2007",
+    "definition": "Nem található elemzési adat ehhez a kötegazonosítóhoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3000",
+    "definition": "Az erőforrás nem található",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3001",
+    "definition": "Ügyfél nem található. Kérjük, forduljon az ügyfélszolgálathoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3002",
+    "definition": "Ezeket az adatokat már feldolgozták. Kérjük, frissítse.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3003",
+    "definition": "Ez az e-mail-cím már regisztrálva van ehhez az alkalmazáshoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4000",
+    "definition": "A termék hitelesítő adatai szükségesek.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4001",
+    "definition": "Ellenőrizze termékinformációit, vagy lépjen kapcsolatba a támogatással.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4002",
+    "definition": "Ezzel az optikai számmal rendelkező eszköz már regisztrálva van.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4003",
+    "definition": "Ezt az eszközt egy másik felhasználó már regisztrálta. Kérjük, forduljon adminisztrátorhoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4004",
+    "definition": "Hiba a licenc frissítése során. Kérjük, forduljon az ügyfélszolgálathoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4005",
+    "definition": "Hiba történt a licenc frissítése során. Kérjük, forduljon adminisztrátorhoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5000",
+    "definition": "A tanácsadó nem jött létre.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5001",
+    "definition": "A jelszómódosítás sikertelen. Kérjük, próbálja újra.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5002",
+    "definition": "A művelet ismeretlen okból meghiúsult.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5003",
+    "definition": "A licenc költségét az adminisztrátor nem határozta meg ehhez az alkalmazáshoz.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_6000",
+    "definition": "Kérjük, próbálja újra. Ha a probléma továbbra is fennáll, jelentse.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_6002",
+    "definition": "Váratlan hiba történt.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  }
+]

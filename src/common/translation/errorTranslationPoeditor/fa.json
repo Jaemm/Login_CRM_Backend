@@ -1,0 +1,317 @@
+[
+  {
+    "term": "error_msg_1000",
+    "definition": "احراز هویت ناموفق بود.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1001",
+    "definition": "شما به این منبع دسترسی ندارید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1002",
+    "definition": "شما مجاز به استفاده از این سرویس نیستید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1003",
+    "definition": "رمز دسترسی مورد نیاز است. لطفا دوباره امتحان کنید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1004",
+    "definition": "نشانه دسترسی نامعتبر است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1005",
+    "definition": "رمز دسترسی منقضی شده است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1006",
+    "definition": "رمز عبور نادرست لطفا دوباره امتحان کنید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1007",
+    "definition": "ورود ناموفق بود. رمز عبور یا شماره نوری اشتباه است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_1008",
+    "definition": "ورود به سیستم اجتماعی انجام نشد.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1009",
+    "definition": "ورود به سیستم اجتماعی ثبت نشده است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_1010",
+    "definition": "لطفا ایمیل خود را تایید کنید و سعی کنید دوباره وارد شوید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2000",
+    "definition": "درخواست بد لطفاً بدنه درخواست را بررسی کنید و دوباره امتحان کنید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_2001",
+    "definition": "پارامترهای نامعتبر",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2002",
+    "definition": "درخواست نامعتبر",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2003",
+    "definition": "سابقه نامعتبر",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2004",
+    "definition": "تاریخ ارائه نشده است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2005",
+    "definition": "شناسه دسته الزامی است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2006",
+    "definition": "Batch ID قبلاً استفاده شده است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_2007",
+    "definition": "هیچ داده تحلیلی برای این دسته شناسه یافت نشد.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_3000",
+    "definition": "منبع پیدا نشد",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3001",
+    "definition": "مشتری پیدا نشد لطفا با پشتیبانی تماس بگیرید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3002",
+    "definition": "این داده ها قبلاً پردازش شده است. لطفا رفرش کنید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_3003",
+    "definition": "این ایمیل قبلاً برای این برنامه ثبت شده است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4000",
+    "definition": "اعتبار محصول مورد نیاز است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4001",
+    "definition": "اطلاعات محصول خود را بررسی کنید یا با پشتیبانی تماس بگیرید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4002",
+    "definition": "دستگاهی با این شماره نوری قبلاً ثبت شده است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4003",
+    "definition": "این دستگاه قبلاً توسط کاربر دیگری ثبت شده است. لطفا با ادمین تماس بگیرید",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4004",
+    "definition": "خطا در به روز رسانی مجوز. لطفا با پشتیبانی تماس بگیرید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_4005",
+    "definition": "خطا در به روز رسانی مجوز. لطفا با ادمین تماس بگیرید",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5000",
+    "definition": "مشاور ایجاد نشد.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_5001",
+    "definition": "تغییر رمز عبور انجام نشد. لطفا دوباره امتحان کنید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5002",
+    "definition": "عملیات به دلیل نامعلومی شکست خورد.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_5003",
+    "definition": "هزینه مجوز توسط ادمین برای این برنامه تعریف نشده است.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  },
+  {
+    "term": "error_msg_6000",
+    "definition": "لطفا دوباره امتحان کنید. اگر مشکل ادامه داشت، آن را گزارش کنید.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 0
+  },
+  {
+    "term": "error_msg_6002",
+    "definition": "خطای غیرمنتظره ای رخ داد.",
+    "context": "",
+    "term_plural": "",
+    "reference": "",
+    "comment": "",
+    "fuzzy": 1
+  }
+]

@@ -1,0 +1,679 @@
+﻿{
+  "fr": [
+    {
+      "term": "confirm_email_title",
+      "definition": "ChoiceTech - Confirmation de l'adresse e-mail",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "Confirmation de l'adresse e-mail",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "Bonjour {{{name}}}, Merci d'utiliser les services de <b>{{{app_name}}}</b>.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "Veuillez confirmer votre e-mail pour continuer 횪 utiliser l'application :",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "page d'assistance",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "Confirmer",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "Cet e-mail est uniquement 횪 des fins de notification. Si vous avez des questions, n'h챕sitez pas 횪 nous contacter 횪",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "Ceci est un e-mail g챕n챕r챕 par le syst챔me. Veuillez ne pas r챕pondre. Pour des questions et  commentaires, contactez-nous 횪",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "Adresse",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "Example address, City, Country",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "E-mail",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "T챕l챕phone",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "ChoiceTech - Correction de probl챔me de serveur",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "Correction de probl챔me de serveur",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "Nous tenons 횪 nous excuser pour les r챕cents probl챔mes de serveur qui ont pu vous causer des d챕sagr챕ments. Soyez assur챕 que tous les probl챔mes ont 챕t챕 r챕solus et que vous pouvez continuer 횪 utiliser votre service.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "Nous souhaitons vous informer de l'챕tat actuel de la licence :",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "Num챕ro de l'appareil",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "Nom du programme",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "Version du programme",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "Date d'activation",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "Date d'expiration",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "Jours restants",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "Nom de l'appareil",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "횋tat de la licence",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "Activ챕e",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "Non activ챕e",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "Derni챔re mise 횪 jour",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "Le service sera interrompu pour les travaux de maintenance suivants :",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "Veuillez revenir apr챔s la fin de la maintenance.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "Nous nous excusons pour le d챕sagr챕ment et vous remercions pour votre patience.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "Equipe support ChoiceTech",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "Votre appareil est maintenant activ챕 !",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "Nous avons compl챕t챕 votre demande d'activation avec les d챕tails suivants :",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "Veuillez noter que l'appareil ne peut 챗tre associ챕 qu'횪 un seul ID. Un mauvais appariement du num챕ro de l'appareil et de l'ID bloquera l'utilisation de l'application, alors assurez-vous de vous souvenir de votre ID, mot de passe et num챕ro de l'appareil.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "Nouveau mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "Confirmer le mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "R챕cup챕ration de mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "V챕rification de r챕initialisation de mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "Votre demande de r챕initialisation de mot de passe est en attente de confirmation. Veuillez cliquer sur le lien ci-dessous pour continuer :",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "Ce lien n'est valable que pendant 12 heures 횪 partir de la r챕ception.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "Cher {{{name}}}, Merci d'utiliser les services de {{{app_name}}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "page de support",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "Avis de r챕initialisation de mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "Bonjour {{{name}}}, Merci d'utiliser {{{app_name}}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "Vous avez demand챕 une r챕initialisation de mot de passe pour votre compte utilisateur.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "Votre mot de passe temporaire est : {{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "Veuillez copier le mot de passe lorsque vous vous connectez 횪 l'application. Allez dans les param챔tres, cliquez sur Utilisateur du salon et r챕initialisez votre mot de passe.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "R챕initialisation du mot de passe r챕ussie",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "Votre mot de passe a 챕t챕 r챕initialis챕 avec succ챔s et vous pouvez continuer 횪 utiliser le service.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "Email v챕rifi챕",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "Votre adresse email a 챕t챕 v챕rifi챕e avec succ챔s.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "Veuillez fermer la fen챗tre, et vous pouvez revenir au service pr챕c챕dent et en profiter.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "Email non v챕rifi챕",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "Veuillez contacter votre administrateur syst챔me.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "R챕cup챕rer le mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "Bonjour {{{name}}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "Bonjour,",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "Pas de sujet",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "Cordialement,<br />L'챕quipe {{{app_name}}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "Notification d'expiration de licence",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "횋chec de l'activation",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "R챕initialisation du mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "Email de confirmation",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "Correction du probl챔me de serveur",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "{{{app_name}}} R챕sultat d'analyse",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "Veuillez cliquer sur le bouton ci-dessous pour consulter le r챕sultat d챕taill챕 de l?셙nalyse du service {{{app_name}}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "Vue",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - Confirmation de l'email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - R챕initialisation du mot de passe r챕ussie",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - R챕cup챕ration du mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - Activation de l'appareil",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "Entrez un nouveau mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "Confirmer le nouveau mot de passe",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}

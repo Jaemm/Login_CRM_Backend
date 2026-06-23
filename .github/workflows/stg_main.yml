@@ -1,0 +1,56 @@
+name: Staging Deploy
+
+on:
+  push:
+    branches:
+      - stg_main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: staging
+    env:
+      STG_SERVER_HOST: ${{ vars.STG_SERVER_HOST }}
+      STG_SERVER_PORT: ${{ vars.STG_SERVER_PORT }}
+      STG_SERVER_USER: ${{ vars.STG_SERVER_USER }}
+      STG_SERVER_APP_DIR: ${{ vars.STG_SERVER_APP_DIR }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.10.0
+        with:
+          ssh-private-key: ${{ secrets.STG_SERVER_KEY }}
+
+      - name: Deploy to Staging Server
+        run: |
+          ssh -o StrictHostKeyChecking=no -p "$STG_SERVER_PORT" "$STG_SERVER_USER@$STG_SERVER_HOST" \
+            "set -e; \
+            export NVM_DIR=\"\$HOME/.nvm\"; \
+            if [ -s \"\$NVM_DIR/nvm.sh\" ]; then . \"\$NVM_DIR/nvm.sh\"; fi; \
+            if command -v nvm >/dev/null 2>&1; then \
+              echo 'Ensuring Node 20 runtime'; \
+              nvm install 20; \
+              nvm use 20; \
+              nvm alias default 20 >/dev/null; \
+            fi; \
+            echo 'Checking Node runtime'; \
+            node -e \"const major = Number(process.versions.node.split('.')[0]); console.log('Node version:', process.versions.node); if (major < 20) { console.error('Node 20 or newer is required for this branch'); process.exit(1); }\"; \
+            echo 'Move to project directory'; \
+            cd '$STG_SERVER_APP_DIR'; \
+            echo 'Syncing with remote branch'; \
+            git fetch origin; \
+            git reset --hard origin/stg_main; \
+            echo 'Installing dependencies'; \
+            npm ci --omit=optional; \
+            echo 'Running database migration'; \
+            npx typeorm-ts-node-commonjs migration:run -d src/data-source-login.ts; \
+            echo 'Building application'; \
+            npm run build; \
+            echo 'Restarting PM2'; \
+            if ! command -v pm2 >/dev/null 2>&1; then npm install -g pm2; fi; \
+            pm2 restart ecosystem.config.js; \
+            echo 'Staging deployment completed'"

@@ -1,0 +1,679 @@
+﻿{
+  "zh-Hans": [
+    {
+      "term": "confirm_email_title",
+      "definition": "ChoiceTech - ?드춴???簾??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "?드춴???簾??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "?ⓨ?竊?{{name}}}竊곫꽏瘟€궓鵝욜뵪<b>{{{app_name}}}</b>?띶뒦??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "瑥루‘溫ㅶ궓?꾤뵷耶먬궙嶸깍펽餓η빵瀯?슴?ⓩ쑍佯붺뵪竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "??똻窈들씊",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "簾??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "閭ㅹ궙餓뜸퍎?ⓧ틢?싩윥?귛쫩?ⓩ쐣餓삡퐬?묌뿮竊뚧Б瓦롩싪퓝餓δ툔?밧폀?붺내?묇뺄竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "閭ㅴ맏楹사퍨?ゅ뒯?잍닇??뻑竊뚩??욕썮鸚띲귛쫩?됬뼇??닑兩븃?竊뚩??싪퓝餓δ툔?밧폀?붺내?묇뺄竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "?겼?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "?⒴쎖雅х빣?볣풖餓곩툊?ⓨ뀾?뷰릎?ⓨㄷ瓮?184 ??A ??1301-2 若ㅿ펷??폋竊?7095竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "?듣캕",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "ChoiceTech - ?띶뒦?③뿮窯섆엶鸚?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "?띶뒦?③뿮窯섆엶鸚?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "瓦묉쐿?띶뒦?ⓨ눣?곈뿮窯섓펽瀯숁궓躍?씎訝띴씩竊뚧닊餓ф런烏ⓩ춬?뤵귞돶閭ㅹ싩윥竊뚧??됮뿮窯섇럴岳?쨳竊뚧궓??빵瀯?슴?ⓩ쐨?▲?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "?겼컛?ⓨ퐪?띸쉪溫멨룾?뜻곲싩윥倻귚툔竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "溫얍쨭煐뽩뤇",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "葉뗥틣?띸㎞",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "葉뗥틣?덃쑍",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "嚥域삥뿥??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "?경쐿?ζ쐿",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "?⒳퐰鸚⒵빊",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "溫얍쨭?띸㎞",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "溫멨룾?뜻?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "藥꿩?域?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "?ゆ?域?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "??롦쎍?경뿶??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "?졽빳訝뗧뺨?ㅵ램鵝쒙펽?띶뒦弱녷쉨?쒙폏",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "瑥룟쑉瀯닸뒪若뚧닇?롩뇥?겼컼瑥뺜슴?ⓦ?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "瀯숁궓躍?씎訝띴씩竊뚧닊餓ф런烏ⓩ춬?륅펽?잒각?①쉪?먨퓘嶺됧푷??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "ChoiceTech ??똻??삜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "?①쉪溫얍쨭?겼럴嚥域삼펯",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "?①쉪嚥域사뵵瑥룟럴鸚꾤릤若뚧닇竊뚩??끻쫩訝뗰폏",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "瑥룡낏?륅펽訝?계?鸚뉏퍎??툗訝訝よ뇹?뤄펷ID竊됬퍚若싥귟?鸚뉒폋?룝툗兀?뤇竊뉹D竊됦툖?백뀓弱녶??닷틪?ⓩ뿞力뺜슴?⑨펽瑥룟뒦恙끿돚溫경궓?꾥뇹?뤄펷ID竊됥곩칳?곩룋溫얍쨭煐뽩뤇??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "?겼칳??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "簾??野녺쟻",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "野녺쟻?얍썮",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "野녺쟻?띸쉰謠뚩칮",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "?①쉪野녺쟻?띸쉰?녘?孃끿‘溫ㅳ귟??밧눤訝뗦뼶?얏렏瀯㎫뺌?띴퐳竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "閭ㅹ벦?θ눎?ζ뵸??뻑阿뗦뿶壅뤄펽餓?12 弱뤸뿶?끾쐣?덀?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "弱딀빃??{{{name}}}竊싨꽏瘟€궓鵝욜뵪 {{{app_name}}} ?띶뒦??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "??똻窈들씊",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "野녺쟻?띸쉰?싩윥",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "?ⓨ?竊?{{name}}}竊곫꽏瘟€궓鵝욜뵪 {{{app_name}}}??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "?ⓨ럴?녘??띸쉰?①쉪?ⓩ댎兀?뤇野녺쟻??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "?①쉪訝닸뿶野녺쟻訝븝폏{{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "?삣퐬佯붺뵪?띰펽瑥룟쨳?뜻?野녺쟻?귞쇉壤뺝릮竊뚩퓵?θ?營?〉??펽?밧눤 ?쒏쿃榕숂뵪?룐앾펽?뜹릮?띸쉰?①쉪野녺쟻??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "野녺쟻?띸쉰?먨뒣",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "?①쉪野녺쟻藥꿩닇?잓뇥營?펽??빵瀯?슴?ⓩ쐨?▲?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "???藥꿴챿瑥?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "?①쉪?드춴???藥꿩닇?잓챿瑥곥?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "瑥룟뀽???囹쀥룭竊뚨꽫?롨퓭?욂퉳?띸쉪?띶뒦窈들씊瀯㎫뺌鵝욜뵪??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "????ら챿瑥?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "瑥룩걫楹사내瀯잏??녶몮??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "?얍썮野녺쟻",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "?ⓨ?竊?{{name}}}竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "?ⓨ?竊?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "?졽말窯?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "窈븀쪤?녺?!<br />{{{app_name}}} ??삜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "溫멨룾?경쐿?싩윥",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "嚥域삣ㅁ兀?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "野녺쟻?띸쉰",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "簾????뻑",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "?띶뒦?③뿮窯섆엶鸚?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "{{{app_name}}} ?녷옄瀯볠옖",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "瑥루궧?삡툔?방뙃??펽?η쐦 {{{app_name}}} ?띶뒦?꾥?瀯녶늽?먪퍜??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "?η쐦",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - ??뻑簾??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - 野녺쟻?띸쉰?먨뒣",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - ?얍썮野녺쟻",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - 溫얍쨭嚥域?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "渦볟뀯?겼칳??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "簾???겼칳??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}

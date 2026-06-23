@@ -1,0 +1,680 @@
+﻿{
+  "en": [
+    {
+      "term": "confirm_email_title",
+      "definition": "ChoiceTech - Email Address Confirmation",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "Email Address Confirmation",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "Hello {{{name}}}, Thank you for using <b>{{{app_name}}}</b> services.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "Please confirm your email to continue using the application:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "support page",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "Confirm",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "This email is only for notification purpose. If you have any questions, feel free to contact us on",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "This is a system generated email. Please do not reply. For questions and comments, contact us at",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "Address",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "Example address, City, Country",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "Phone",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "ChoiceTech - Server Issue Fix",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "Server Issue Fix",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "We would like to apologize for recent server issues that might have caused you troubles. Be noticed that all problems have been fixed and you can continue using your service.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "We would like to inform you about the current license status:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "Device number",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "Program name",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "Program version",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "Activation date",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "Expiration date",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "Remaining days",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "Device name",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "License status",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "Activated",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "Not activated",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "Last update",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "The service will be stopped for the following maintenance work:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "Please check back after the maintenance is completed.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "We apologize for the inconvenience and thank you for your patience.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "ChoiceTech support team",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "Your device is now activated!",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "We completed your activation request with the following details:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "Please note that the device can only be paired with a single ID. Mismatching the device number and ID will block app usage so make sure you remember your ID, password and device number.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "New password",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "Confirm password",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "Password recovery",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "Password reset verification",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "Your request for password reset is pending confirmation. Please click the link below to proceed:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "This link is only valid for 12 hours from time of receipt.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "Dear {{{name}}}, Thank you for using {{{app_name}}} services.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "support page",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "Password reset notice",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "Hello {{{name}}}, Thank you for using {{{app_name}}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "You have requested a password reset for your user account.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "Your temporary password is: {{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "Please copy the password when you login to the application. Go to the settings, click Salon user and reset your password.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "Password reset success",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "Your password has been successfully reset and you can continue using the service.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "Email Verified",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "Your email address was successfully verified.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "Please close the window, and you may go back to the previous service and enjoy.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "Email Not Verified",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "Please contact your system administrator.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "Recover Password",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "Hello {{{name}}},",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "Hello,",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "No Subject",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "Best regards,<br />{{{app_name}}} Team",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "License Expiration Notification",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "Activation Failed",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "Password Reset",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "Confirmation Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "Server Issue Fix",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "{{{app_name}}} Analysis Results",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "Click the button below to view the detailed analysis results from the {{{app_name}}} service.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "View Results",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - Email Confirmation",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - Password Reset Success",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - Password Recovery",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - Device Activation",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "Enter new password",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "Confirm new password",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}
+

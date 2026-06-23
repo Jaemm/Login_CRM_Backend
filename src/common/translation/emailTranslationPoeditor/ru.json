@@ -1,0 +1,679 @@
+﻿{
+  "ru": [
+    {
+      "term": "confirm_email_title",
+      "definition": "??龜 棘閨戟棘勻剋筠戟龜龜 畇逵戟戟?? 極?棘龜鈞棘?剋逵 棘?龜閨克逵 ChoiceTech",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "?棘畇?勻筠?菌畇筠戟龜筠 逵畇?筠?逵 ?剋筠克??棘戟戟棘橘 極棘???",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "?畇?逵勻??勻?橘?筠혻{{fname}}, 閨剋逵均棘畇逵?龜劇 勻逵? 鈞逵 龜?極棘剋?鈞棘勻逵戟龜筠 ?筠?勻龜?逵혻<b>{{app_name}}</b>.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "?棘菌逵剋?橘??逵, 極棘畇?勻筠?畇龜?筠 ?勻棘橘 逵畇?筠? ?剋筠克??棘戟戟棘橘 極棘???, ??棘閨? 極?棘畇棘剋菌龜?? 龜?極棘剋?鈞棘勻逵戟龜筠 極?龜剋棘菌筠戟龜?:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "???逵戟龜?逵 極棘畇畇筠?菌克龜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "?棘畇?勻筠?畇龜??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "葵?棘 ?剋筠克??棘戟戟棘筠 極龜??劇棘 極?筠畇戟逵鈞戟逵?筠戟棘 ?棘剋?克棘 畇剋? ?筠剋筠橘 ?勻筠畇棘劇剋筠戟龜?. ??剋龜 ? 勻逵? 筠??? 克逵克龜筠-剋龜閨棘 勻棘極?棘??, 戟筠 ??筠?戟?橘?筠?? 棘閨?逵?逵???? 克 戟逵劇 極棘",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "葵?棘 ?龜??筠劇戟棘筠 極龜??劇棘. ?棘菌逵剋?橘??逵, 戟筠 棘?勻筠?逵橘?筠 戟逵 戟筠均棘. ?棘 勻棘極?棘?逵劇 龜 極?筠畇剋棘菌筠戟龜?劇 ?勻?菌龜?筠?? ? 戟逵劇龜 極棘 逵畇?筠??:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "?畇?筠?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "Example address, City, Country",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "E-mail",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "龜筠剋筠?棘戟",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "??極?逵勻剋筠戟龜筠 極?棘閨剋筠劇? ? ?筠?勻筠?棘劇 ChoiceTech",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "??極?逵勻剋筠戟龜筠 極?棘閨剋筠劇? ? ?筠?勻筠?棘劇",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "?? ?棘?筠剋龜 閨? 龜鈞勻龜戟龜???? 鈞逵 戟筠畇逵勻戟龜筠 極?棘閨剋筠劇? ? ?筠?勻筠?棘劇, 克棘?棘??筠 劇棘均剋龜 勻?鈞勻逵?? ? 勻逵? 極?棘閨剋筠劇?. ?閨?逵?龜?筠 勻戟龜劇逵戟龜筠, ??棘 勻?筠 極?棘閨剋筠劇? 閨?剋龜 ????逵戟筠戟?, 龜 勻? 劇棘菌筠?筠 極?棘畇棘剋菌逵?? 極棘剋?鈞棘勻逵???? ?勻棘龜劇 ?筠?勻龜?棘劇.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "?? ?棘?筠剋龜 閨? ?棘棘閨?龜?? 勻逵劇 棘 ?筠克??筠劇 ??逵???筠 剋龜?筠戟鈞龜龜:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "?棘劇筠? ????棘橘??勻逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "?逵鈞勻逵戟龜筠 極?棘均?逵劇劇?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "?筠??龜? 極?棘均?逵劇劇?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "?逵?逵 逵克?龜勻逵?龜龜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "?逵?逵 棘克棘戟?逵戟龜? ??棘克逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "???逵勻?龜筠?? 畇戟龜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "?劇? ????棘橘??勻逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "鬼?逵??? 剋龜?筠戟鈞龜龜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "?克?龜勻龜?棘勻逵戟逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "?筠 逵克?龜勻龜?棘勻逵戟逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "?棘?剋筠畇戟筠筠 棘閨戟棘勻剋筠戟龜筠",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "鬼筠?勻龜? 閨?畇筠? 棘??逵戟棘勻剋筠戟 畇剋? 極?棘勻筠畇筠戟龜? ?剋筠畇???龜? ?筠?戟龜?筠?克龜? ?逵閨棘?:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "?棘菌逵剋?橘??逵, 極?棘勻筠???筠 ?戟棘勻逵 極棘?剋筠 鈞逵勻筠??筠戟龜? 棘閨?剋?菌龜勻逵戟龜?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "??龜戟棘?龜劇 龜鈞勻龜戟筠戟龜? 鈞逵 戟筠?畇棘閨??勻逵 龜 閨剋逵均棘畇逵?龜劇 鈞逵 勻逵?筠 ?筠?極筠戟龜筠.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "?棘劇逵戟畇逵 極棘畇畇筠?菌克龜 ChoiceTech",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "?逵?筠 ????棘橘??勻棘 逵克?龜勻龜?棘勻逵戟棘!",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "?? 鈞逵勻筠??龜剋龜 勻逵? 鈞逵極?棘? 戟逵 逵克?龜勻逵?龜? ?棘 ?剋筠畇???龜劇龜 畇逵戟戟?劇龜:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "?閨?逵?龜?筠 勻戟龜劇逵戟龜筠, ??棘 ????棘橘??勻棘 劇棘菌筠? 閨??? ?棘極??菌筠戟棘 ?棘剋?克棘 ? 棘畇戟龜劇 龜畇筠戟?龜?龜克逵?棘?棘劇. ?筠?棘棘?勻筠???勻龜筠 戟棘劇筠?逵 ????棘橘??勻逵 龜 龜畇筠戟?龜?龜克逵?棘?逵 鈞逵閨剋棘克龜??筠? 龜?極棘剋?鈞棘勻逵戟龜筠 極?龜剋棘菌筠戟龜?, 極棘??棘劇? ?閨筠畇龜?筠??, ??棘 勻? 極棘劇戟龜?筠 ?勻棘橘 龜畇筠戟?龜?龜克逵?棘?, 極逵?棘剋? 龜 戟棘劇筠? ????棘橘??勻逵.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "?棘勻?橘 ?逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "?棘畇?勻筠?畇龜?? 極逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "?棘???逵戟棘勻剋筠戟龜筠 ?逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "?棘畇?勻筠?菌畇筠戟龜筠 ?閨?棘?逵 極逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "?逵? 鈞逵極?棘? 戟逵 ?閨?棘? 極逵?棘剋? 棘菌龜畇逵筠? 極棘畇?勻筠?菌畇筠戟龜?. ?棘菌逵剋?橘??逵, 極筠?筠橘畇龜?筠 極棘 ???剋克筠 戟龜菌筠 畇剋? 極?棘畇棘剋菌筠戟龜?:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "葵?逵 ???剋克逵 畇筠橘??勻龜?筠剋?戟逵 ?棘剋?克棘 勻 ?筠?筠戟龜筠 12 ?逵?棘勻 ? 劇棘劇筠戟?逵 極棘剋??筠戟龜?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "叫勻逵菌逵筠劇?橘(逵?)혻{{fname}}, ?極逵?龜閨棘, ??棘 極棘剋?鈞?筠?筠?? ?筠?勻龜?棘劇혻{{app_name}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "???逵戟龜?逵 極棘畇畇筠?菌克龜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "叫?????????? ? 鬼???鬼? ?????赳",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "?畇?逵勻??勻?橘?筠혻{{fname}}, ?極逵?龜閨棘, ??棘 極棘剋?鈞?筠?筠??혻{{app_name}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "?? 鈞逵極?棘?龜剋龜 ?閨?棘? 極逵?棘剋? 畇剋? ?勻棘筠橘 ??筠?戟棘橘 鈞逵極龜?龜 極棘剋?鈞棘勻逵?筠剋?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "?逵? 勻?筠劇筠戟戟?橘 極逵?棘剋?:혻{{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "?棘菌逵剋?橘??逵, ?克棘極龜??橘?筠 極逵?棘剋? 極?龜 勻?棘畇筠 勻 極?龜剋棘菌筠戟龜筠. ?逵橘畇龜?筠 勻 戟逵???棘橘克龜, 戟逵菌劇龜?筠 짬?棘剋?鈞棘勻逵?筠剋? ?逵剋棘戟逵쨩 龜 ?閨?棘???筠 極逵?棘剋?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "叫?極筠?戟?橘 ?閨?棘? 極逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "?逵? 極逵?棘剋? ??極筠?戟棘 ?閨?棘?筠戟, 龜 勻? 劇棘菌筠?筠 極?棘畇棘剋菌逵?? 極棘剋?鈞棘勻逵???? ?筠?勻龜?棘劇.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "葵剋筠克??棘戟戟逵? 極棘??逵 極?棘勻筠?筠戟逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "?逵? 逵畇?筠? ?剋筠克??棘戟戟棘橘 極棘??? 閨?剋 ??極筠?戟棘 極棘畇?勻筠?菌畇筠戟.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "?棘菌逵剋?橘??逵, 鈞逵克?棘橘?筠 ??棘 棘克戟棘, ??棘閨? 勻筠?戟????? 克 龜?極棘剋?鈞棘勻逵戟龜? ?筠?勻龜?逵.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "葵剋筠克??棘戟戟逵? 極棘??逵 戟筠 極棘畇?勻筠?菌畇筠戟逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "?棘菌逵剋?橘??逵, 棘閨?逵?龜?筠?? 克 ?龜??筠劇戟棘劇? 逵畇劇龜戟龜???逵?棘??.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "?棘???逵戟棘勻龜?? 極逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "?畇?逵勻??勻?橘?筠혻{{fname}},",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "?畇?逵勻??勻?橘?筠,",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "?筠鈞 ?筠劇?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "鬼 ?勻逵菌筠戟龜筠劇,<br/>?棘劇逵戟畇逵혻{{app_name}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "叫勻筠畇棘劇剋筠戟龜筠 棘閨 棘克棘戟?逵戟龜龜 剋龜?筠戟鈞龜龜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "?克?龜勻逵?龜? 戟筠 ?畇逵剋逵??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "鬼閨?棘? 極逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "葵剋筠克??棘戟戟棘筠 極龜??劇棘 ? 極棘畇?勻筠?菌畇筠戟龜筠劇",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "??極?逵勻剋筠戟龜筠 極?棘閨剋筠劇? ? ?筠?勻筠?棘劇",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "?筠鈞?剋??逵? 逵戟逵剋龜鈞逵혻{{app_name}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "?棘菌逵剋?橘??逵, 戟逵菌劇龜?筠 克戟棘極克? 戟龜菌筠, ??棘閨? 極棘?劇棘??筠?? 極棘畇?棘閨戟?橘 ?筠鈞?剋??逵? 逵戟逵剋龜鈞逵 勻 ?筠?勻龜?筠 {{{app_name}}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "??棘?劇棘??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - ?棘畇?勻筠?菌畇筠戟龜筠 E-mail",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - 鬼閨?棘? 極逵?棘剋? 勻?極棘剋戟筠戟 ??極筠?戟棘",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - ?棘???逵戟棘勻剋筠戟龜筠 ?逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - ?克?龜勻逵?龜? 叫???棘橘??勻逵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "?勻筠畇龜?筠 戟棘勻?橘 極逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "?棘畇?勻筠?畇龜?筠 戟棘勻?橘 極逵?棘剋?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}

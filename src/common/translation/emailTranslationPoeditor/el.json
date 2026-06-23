@@ -1,0 +1,679 @@
+﻿{
+  "el": [
+    {
+      "term": "confirm_email_title",
+      "definition": "ChoiceTech - ??菅棺琯棺慣官??管 ?菅琯?罐?館?管? Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "??菅棺琯棺慣官??管 ?菅琯?罐?館?管? Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "?琯菅郭 ?慣?혻{{name}}, ?慣? 琯??慣?菅??恝?關琯 ?恝? ??管?菅關恝?恝菅琯官?琯 ?菅? ??管?琯?官琯? ?恝?혻<b>{{app_name}}</b>.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "?慣?慣觀慣貫? 琯?菅棺琯棺慣菅???琯 ?恝 email ?慣? 款菅慣 館慣 ??館琯?官?琯?琯 館慣 ??管?菅關恝?恝菅琯官?琯 ?管館 琯?慣?關恝款冠:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "?琯貫官灌慣 ??恝??冠?菅刮管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "??菅棺琯棺慣官??管",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "???? ?恝 email 琯官館慣菅 關?館恝 款菅慣 琯館管關琯???菅觀恝?? ?觀恝?恝??. ?郭館 串?琯?琯 慣?恝?官琯?, 琯?菅觀恝菅館?館冠??琯 關慣瓘官 關慣? ??恝",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "???? ?恝 email 灌管關菅恝??款冠罐管觀琯 慣???關慣?慣. ?慣?慣觀慣貫恝?關琯 關管館 慣?慣館?郭?琯. ?菅慣 琯???冠?琯菅? 觀慣菅 ???貫菅慣 琯?菅觀恝菅館?館冠??琯 關慣瓘官 關慣? ??恝",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "?菅琯?罐?館?管",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "Example address, City, Country",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "課管貫串??館恝",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "ChoiceTech - ?菅??罐??管 ??恝棺貫冠關慣?恝? ?菅慣觀恝關菅??冠",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "?菅??罐??管 ??恝棺貫冠關慣?恝? ?菅慣觀恝關菅??冠",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "?管?恝?關琯 ??款款館?關管 款菅慣 ?慣 ?????慣?慣 ??恝棺貫冠關慣?慣 灌菅慣觀恝關菅??冠 ?恝? 官??? ?慣? ??恝觀郭貫琯?慣館 灌??觀恝貫官琯?. ?貫慣 ?慣 ??恝棺貫冠關慣?慣 串?恝?館 灌菅恝?罐?罐琯官 觀慣菅 關?恝?琯官?琯 館慣 ??館琯?官?琯?琯 館慣 ??管?菅關恝?恝菅琯官?琯 ?管館 ??管?琯?官慣 ?慣?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "?慣 罐串貫慣關琯 館慣 ?慣? 琯館管關琯???恝?關琯 款菅慣 ?管館 ??串?恝??慣 觀慣?郭??慣?管 ?管? 郭灌琯菅郭? ?慣?:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "??菅罐關?? ???觀琯?冠?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "?館恝關慣 ??恝款?郭關關慣?恝?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "?觀灌恝?管 ??恝款?郭關關慣?恝?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "?關琯?恝關管館官慣 琯館琯?款恝?恝官管?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "?關琯?恝關管館官慣 貫冠刮管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "跨?恝貫琯菅??關琯館琯? 管關串?琯?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "?館恝關慣 ???觀琯?冠?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "?慣?郭??慣?管 郭灌琯菅慣?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "?館琯?款冠",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "?管 琯館琯?款冠",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "課琯貫琯??慣官慣 琯館管關串???管",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "? ??管?琯?官慣 罐慣 灌菅慣觀恝?琯官 款菅慣 ?管館 慣觀?貫恝?罐管 琯?款慣?官慣 ??館?冠?管?管?:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "?慣?慣觀慣貫恝?關琯 琯貫串款刮?琯 刮慣館郭 關琯?郭 ?管館 恝貫恝觀貫冠???管 ?管? ??館?冠?管?管?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "?管?恝?關琯 ??款款館?關管 款菅慣 ?管館 ?慣貫慣菅???官慣 觀慣菅 ?慣? 琯??慣?菅??恝?關琯 款菅慣 ?管館 ??恝關恝館冠 ?慣?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "?關郭灌慣 ??恝??冠?菅刮管? ChoiceTech",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "? ???觀琯?冠 ?慣? 琯館琯?款恝?恝菅冠罐管觀琯!",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "?貫恝觀貫管???慣關琯 ?恝 慣官?管關慣 琯館琯?款恝?恝官管?冠? ?慣? 關琯 ?慣 琯刮冠? ??恝菅?琯官慣:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "?慣?慣觀慣貫恝?關琯 ?管關琯菅???琯 ??菅 管 ???觀琯?冠 關?恝?琯官 館慣 ??館灌琯罐琯官 關?館恝 關琯 串館慣 關恝館慣灌菅觀? ID. ?郭館 灌琯館 ?慣菅?菅郭瓘琯菅 恝 慣?菅罐關?? ???觀琯?冠? 觀慣菅 ?恝 ID, 管 ??冠?管 ?管? 琯?慣?關恝款冠? 罐慣 關?貫恝觀慣?菅??琯官, 恝???琯 館慣 罐?關郭??琯 ?恝 ID, ?恝館 觀?灌菅觀? ????棺慣?管? 觀慣菅 ?恝館 慣?菅罐關? ???觀琯?冠?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "?串恝? 觀?灌菅觀?? ????棺慣?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "??菅棺琯棺慣官??管 觀?灌菅觀恝?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "?館郭觀?管?管 觀?灌菅觀恝? ????棺慣?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "??慣貫冠罐琯??管 琯?慣館慣?恝?郭? 觀?灌菅觀恝? ????棺慣?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "課恝 慣官?管關郭 ?慣? 款菅慣 琯?慣館慣?恝?郭 觀?灌菅觀恝? 琯官館慣菅 ??? 琯?菅棺琯棺慣官??管. ?慣?慣觀慣貫恝?關琯 ?慣?冠??琯 ?恝館 ?慣?慣觀郭?? ??館灌琯?關恝 款菅慣 館慣 ??館琯?官?琯?琯:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "????? 恝 ??館灌琯?關恝? 菅???琯菅 關?館恝 款菅慣 12 ??琯? 慣?? ?管 貫冠?管 ?恝? 關管館?關慣?恝?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "?款慣?管?串/冠혻{{name}}, ?慣? 琯??慣?菅??恝?關琯 ?恝? ??管?菅關恝?恝菅琯官?琯 ?菅? ??管?琯?官琯? ?恝?혻{{app_name}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "?琯貫官灌慣 ??恝??冠?菅刮管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "?菅灌恝?恝官管?管 琯?慣館慣?恝?郭? 觀?灌菅觀恝? ????棺慣?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "?琯菅郭 ?慣?혻{{name}}, ?慣? 琯??慣?菅??恝?關琯 ?恝? ??管?菅關恝?恝菅琯官?琯 ?恝혻{{app_name}}.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "?管?冠?慣?琯 琯?慣館慣?恝?郭 觀?灌菅觀恝? 款菅慣 ?恝館 貫恝款慣?菅慣?關? ?慣?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "? ??恝???菅館?? ?慣? 觀?灌菅觀?? 琯官館慣菅:혻{{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "?館?菅款?郭??琯 ?恝館 觀?灌菅觀? 觀慣?郭 ?管 ??館灌琯?管 ??管館 琯?慣?關恝款冠. ?管款慣官館琯?琯 ??菅? ??罐關官?琯菅?, ?慣?冠??琯 Salon user 觀慣菅 慣貫貫郭刮?琯 ?恝館 觀?灌菅觀? ?慣?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "??菅???冠? 琯?慣館慣?恝?郭 觀?灌菅觀恝?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "? 觀?灌菅觀?? ????棺慣?冠? ?慣? 琯?慣館慣?串?罐管觀琯 琯?菅????? 觀慣菅 關?恝?琯官?琯 館慣 ??館琯?官?琯?琯 館慣 ??管?菅關恝?恝菅琯官?琯 ?管館 ??管?琯?官慣.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "課恝 email 琯?慣貫管罐琯??管觀琯",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "? 灌菅琯?罐?館?管 email 琯?慣貫管罐琯??管觀琯 琯?菅?????.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "?貫琯官??琯 ?恝 ?慣?郭罐??恝 觀慣菅 關?恝?琯官?琯 館慣 琯?菅???串?琯?琯 ??管館 ??恝管款恝?關琯館管 ??管?琯?官慣 ?慣?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "?管 琯?菅棺琯棺慣菅?關串館恝 email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "?慣?慣觀慣貫恝?關琯 琯?菅觀恝菅館?館冠??琯 關琯 ?恝館 灌菅慣?琯菅?菅??冠 ?恝? ????冠關慣?恝?.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "??慣館慣?恝?郭 ??灌菅觀恝?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "?琯菅郭 ?慣?혻{{name}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "?琯菅郭 ?慣?,",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "鍋??官? ?串關慣",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "?琯 琯觀?官關管?管,<br />? 恝關郭灌慣 ?恝?혻{{app_name}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "?菅灌恝?恝官管?管 ?冠刮管? ?灌琯菅慣?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "? 琯館琯?款恝?恝官管?管 慣?串???琯",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "??慣館慣?恝?郭 ??灌菅觀恝?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "Email ??菅棺琯棺慣官??管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "?菅??罐??管 ??恝棺貫冠關慣?恝? ?菅慣觀恝關菅??冠",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "??恝?串貫琯?關慣 ?館郭貫??管?혻{{app_name}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "?慣?冠??琯 ?恝 觀恝?關?官 ?慣?慣觀郭?? 款菅慣 館慣 灌琯官?琯 ?慣 慣館慣貫??菅觀郭 慣?恝?琯貫串?關慣?慣 慣?? ?管館 ??管?琯?官慣 {{{app_name}}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "??恝棺恝貫冠",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - ??菅棺琯棺慣官??管 e-mail",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - ??菅???冠? 琯?慣館慣?恝?郭 觀?灌菅觀恝? ????棺慣?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - ?館郭觀?管?管 觀?灌菅觀恝? ????棺慣?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - ?館琯?款恝?恝官管?管 ???觀琯?冠?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "?菅?慣款郭款琯?琯 館串恝 觀?灌菅觀?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "??菅棺琯棺慣官??管 館串恝? 觀?灌菅觀恝? ????棺慣?管?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}

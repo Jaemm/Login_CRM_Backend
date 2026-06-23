@@ -1,0 +1,54 @@
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <style>
+      .flex { display: flex; } .justify-center { justify-content: center; } .flex-column-reverse {
+      flex-direction: column-reverse; } .flex-column { flex-direction: column; } .center { position:
+      fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); align-items: center; text-align:
+      center; } .font-avenir-black { font-family: 'Avenir Black'; }
+    </style>
+  </head>
+  <body>
+    {{#if success}}
+      <div class='center'>
+        <div>
+          <svg xmlns='http://www.w3.org/2000/svg' width='172' height='172' viewBox='0 0 172 172'>
+            <g id='Group_8448' data-name='Group 8448' transform='translate(-554 -158)'>
+              <path
+                id='Path_4411'
+                data-name='Path 4411'
+                d='M3806.575-15072.029l22.223,22.221,56.508-56.485'
+                transform='translate(-3206.076 15324.577)'
+                fill='none'
+                stroke='#68b08f'
+                stroke-linecap='round'
+                stroke-linejoin='round'
+                stroke-width='17'
+              />
+              <g
+                id='Ellipse_1352'
+                data-name='Ellipse 1352'
+                transform='translate(554 158)'
+                fill='none'
+                stroke='#68b08f'
+                stroke-width='17'
+              >
+                <circle cx='86' cy='86' r='86' stroke='none' />
+                <circle cx='86' cy='86' r='77.5' fill='none' />
+              </g>
+            </g>
+          </svg>
+        </div>
+        <div style='font-size: 40px; margin-top: 20px;'>{{email_verified}}</div>
+        <div style='font-size: 20px; margin-top: 20px;'>{{email_verified_para1}}</div>
+        <div style='font-size: 20px; margin-top: 20px;'>{{email_verified_para2}}</div>
+      </div>
+    {{else}}
+      <div class='flex flex-column center font-avenir-black'>
+        <div style='font-size: 40px; margin-top: 20px;'>{{email_verified_not}}</div>
+        <div style='font-size: 20px; margin-top: 20px;'>{{email_verified_not_para1}}</div>
+      </div>
+    {{/if}}
+  </body>
+</html>

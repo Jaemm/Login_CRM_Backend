@@ -1,0 +1,679 @@
+﻿{
+  "vi": [
+    {
+      "term": "confirm_email_title",
+      "definition": "ChoiceTech - X찼c Nh梳춏 휂沼땇 Ch沼?Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "X찼c Nh梳춏 휂沼땇 Ch沼?Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "Xin ch횪o ({{name}}), C梳즡 퉤n b梳죒 휃찾 s沼?d沼쩸g d沼땉h v沼Β?b>{{app_name}}</b>.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "Vui l챵ng x찼c nh梳춏 email c沼쬪 b梳죒 휃沼?ti梳퓈 t沼쩭 s沼?d沼쩸g 沼쯰g d沼쩸g:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "trang h沼?tr沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "X찼c nh梳춏",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "Email n횪y ch沼?nh梳켶 m沼쩭 휃챠ch th척ng b찼o. N梳퓎 b梳죒 c처 b梳쩿 k沼?c창u h沼뢩 n횪o, vui l챵ng li챗n h沼?v沼쌻 ch첬ng t척i t梳죍",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "휂창y l횪 email 휃튼沼즓 t梳죓 t沼?휃沼셬g. Vui l챵ng kh척ng tr梳?l沼쓎. N梳퓎 c처 c창u h沼뢩 ho梳톍 첵 ki梳퓆, h찾y li챗n h沼?v沼쌻 ch첬ng t척i t梳죍",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "휂沼땇 ch沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "Example address, City, Country",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "Email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "휂i沼뇆 tho梳죍",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "ChoiceTech - S沼춁 L沼뾦 M찼y Ch沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "S沼춁 L沼뾦 M찼y Ch沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "Ch첬ng t척i xin l沼뾦 v챙 c찼c s沼?c沼?m찼y ch沼?g梳쬷 휃창y c처 th沼?휃찾 g창y ra phi沼걆 to찼i cho b梳죒. Xin l튼u 첵 r梳켷g t梳쩿 c梳?c찼c v梳쩸 휃沼?휃찾 휃튼沼즓 kh梳칌 ph沼쩭 v횪 b梳죒 c처 th沼?ti梳퓈 t沼쩭 s沼?d沼쩸g d沼땉h v沼?c沼쬪 m챙nh.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "Ch첬ng t척i mu沼몁 th척ng b찼o cho b梳죒 v沼?tr梳죒g th찼i gi梳쪅 ph챕p hi沼뇆 t梳죍:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "S沼?thi梳퓍 b沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "T챗n ch튼퉤ng tr챙nh",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "Phi챗n b梳즢 ch튼퉤ng tr챙nh",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "Ng횪y k챠ch ho梳죜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "Ng횪y h梳퓍 h梳죒",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "Ng횪y c챵n l梳죍",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "T챗n thi梳퓍 b沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "Tr梳죒g th찼i gi梳쪅 ph챕p",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "휂찾 k챠ch ho梳죜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "Ch튼a k챠ch ho梳죜",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "C梳춑 nh梳춗 l梳쬷 cu沼멼",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "D沼땉h v沼?s梳?t梳죑 ng沼쳌g 휃沼?b梳즣 tr챙 theo n沼셢 dung sau:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "Vui l챵ng ki沼긩 tra l梳죍 sau khi b梳즣 tr챙 ho횪n t梳쩿.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "Xin l沼뾦 v챙 s沼?b梳쩿 ti沼뇆 n횪y v횪 c梳즡 퉤n b梳죒 휃찾 ki챗n nh梳쳌.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "휂沼셢 ng크 h沼?tr沼?ChoiceTech",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "Thi梳퓍 b沼?c沼쬪 b梳죒 휃찾 휃튼沼즓 k챠ch ho梳죜!",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "Y챗u c梳쬾 k챠ch ho梳죜 c沼쬪 b梳죒 휃찾 휃튼沼즓 ho횪n th횪nh v沼쌻 c찼c chi ti梳퓍 sau:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "Xin l튼u 첵 r梳켷g thi梳퓍 b沼?ch沼?c처 th沼?휃튼沼즓 gh챕p n沼멼 v沼쌻 m沼셳 ID duy nh梳쩿. N梳퓎 s沼?thi梳퓍 b沼?v횪 ID kh척ng kh沼썂 s梳?ch梳톘 vi沼놻 s沼?d沼쩸g 沼쯰g d沼쩸g, v챙 v梳춞 h찾y ch梳칌 ch梳칗 r梳켷g b梳죒 nh沼?ID, m梳춗 kh梳쯷 v횪 s沼?thi梳퓍 b沼?c沼쬪 m챙nh.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "M梳춗 kh梳쯷 m沼쌻",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "X찼c nh梳춏 m梳춗 kh梳쯷",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "Kh척i ph沼쩭 m梳춗 kh梳쯷",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "X찼c minh 휃梳톞 l梳죍 m梳춗 kh梳쯷",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "Y챗u c梳쬾 휃梳톞 l梳죍 m梳춗 kh梳쯷 c沼쬪 b梳죒 휃ang ch沼?x찼c nh梳춏. Vui l챵ng nh梳쩸 v횪o li챗n k梳퓍 b챗n d튼沼쌻 휃沼?ti梳퓈 t沼쩭:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "Li챗n k梳퓍 n횪y ch沼?c처 hi沼뇎 l沼켧 trong 12 gi沼?k沼?t沼?khi nh梳춏 휃튼沼즓.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "K챠nh g沼춊 ({{name}}), C梳즡 퉤n b梳죒 휃찾 s沼?d沼쩸g d沼땉h v沼?({{app_name}}).",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "trang h沼?tr沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "Th척ng b찼o 휃梳톞 l梳죍 m梳춗 kh梳쯷",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "Xin ch횪o ({{name}}), C梳즡 퉤n b梳죒 휃찾 s沼?d沼쩸g ({{app_name}}).",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "B梳죒 휃찾 y챗u c梳쬾 휃梳톞 l梳죍 m梳춗 kh梳쯷 t횪i kho梳즢 ng튼沼쓎 d첫ng c沼쬪 m챙nh.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "M梳춗 kh梳쯷 t梳죑 th沼쓎 c沼쬪 b梳죒 l횪:혻{{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "Vui l챵ng sao ch챕p m梳춗 kh梳쯷 khi 휃훱ng nh梳춑 沼쯰g d沼쩸g. V횪o C횪i 휃梳톞, nh梳쩸 Ng튼沼쓎 d첫ng Salon v횪 휃梳톞 l梳죍 m梳춗 kh梳쯷.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "휂梳톞 l梳죍 m梳춗 kh梳쯷 th횪nh c척ng",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "M梳춗 kh梳쯷 c沼쬪 b梳죒 휃찾 휃튼沼즓 휃梳톞 l梳죍 th횪nh c척ng v횪 b梳죒 c처 th沼?ti梳퓈 t沼쩭 s沼?d沼쩸g d沼땉h v沼?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "Email 휃찾 휃튼沼즓 x찼c th沼켧",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "휂沼땇 ch沼?email c沼쬪 b梳죒 휃찾 휃튼沼즓 x찼c th沼켧 th횪nh c척ng.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "Vui l챵ng 휃처ng c沼춁 s沼?n횪y v횪 b梳죒 c처 th沼?quay l梳죍 d沼땉h v沼?tr튼沼쌵 휃처 v횪 ti梳퓈 t沼쩭 s沼?d沼쩸g.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "Email ch튼a 휃튼沼즓 x찼c th沼켧",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "Vui l챵ng li챗n h沼?v沼쌻 qu梳즢 tr沼?vi챗n h沼?th沼몁g c沼쬪 b梳죒.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "Kh척i ph沼쩭 m梳춗 kh梳쯷",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "Xin ch횪o ({{name}}),",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "Xin ch횪o,",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "Kh척ng c처 ti챗u 휃沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "Tr창n tr沼뛫g,<br/>휂沼셢 ng크 ({{app_name}})",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "Th척ng b찼o h梳퓍 h梳죒 gi梳쪅 ph챕p",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "K챠ch ho梳죜 th梳쩿 b梳죍",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "휂梳톞 l梳죍 m梳춗 kh梳쯷",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "Email x찼c nh梳춏",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "S沼춁 l沼뾦 m찼y ch沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "K梳퓍 qu梳?ph창n t챠ch ({{app_name}})",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "Vui l챵ng nh梳쩸 n첬t b챗n d튼沼쌻 휃沼?xem chi ti梳퓍 k梳퓍 qu梳?ph창n t챠ch t沼?d沼땉h v沼?{{{app_name}}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "Xem",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - X찼c nh梳춏 email",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - 휂梳톞 l梳죍 m梳춗 kh梳쯷 th횪nh c척ng",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - Kh척i ph沼쩭 m梳춗 kh梳쯷",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - K챠ch ho梳죜 thi梳퓍 b沼?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "Nh梳춑 m梳춗 kh梳쯷 m沼쌻",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "X찼c nh梳춏 m梳춗 kh梳쯷 m沼쌻",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}

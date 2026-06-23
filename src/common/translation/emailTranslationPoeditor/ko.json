@@ -1,0 +1,680 @@
+﻿{
+  "ko": [
+    {
+      "term": "confirm_email_title",
+      "definition": "珥덉씠?ㅽ뀒??- ?대찓??二쇱냼 ?뺤씤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_header",
+      "definition": "?대찓??二쇱냼 ?뺤씤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_confirm_email_html",
+      "definition": "?덈뀞?섏꽭?붋?{name}}??혻<b>{{app_name}}</b>혻?쒕퉬?ㅻ? ?댁슜??二쇱뀛??媛먯궗?⑸땲??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email",
+      "definition": "?좏뵆由ъ??댁뀡??怨꾩냽 ?ъ슜?섎젮硫??대찓?쇱쓣 ?뺤씤??二쇱꽭??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "support_text",
+      "definition": "吏???섏씠吏",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm",
+      "definition": "?뺤씤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text",
+      "definition": "???대찓?쇱? ?뚮┝ 紐⑹쟻?쇰줈留??ъ슜?⑸땲?? 吏덈Ц???덉쑝硫??몄젣?좎? 臾몄쓽?섏떗?쒖삤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "notification_text1",
+      "definition": "??硫붿씪? ?쒖뒪?쒖뿉???먮룞?쇰줈 諛쒖넚?섏뿀?듬땲?? ?듭옣?섏? 留덉꽭?? 臾몄쓽 ?ы빆? ?꾨옒 ?대찓?쇰줈 ?곕씫??二쇱떗?쒖삤.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address",
+      "definition": "二쇱냼",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "address_text",
+      "definition": "Example address, City, Country",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email",
+      "definition": "?대찓??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_text",
+      "definition": "contact@example.com",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone",
+      "definition": "?꾪솕踰덊샇",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "phone_text",
+      "definition": "+82-31-706-7950",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_title",
+      "definition": "珥덉씠?ㅽ뀒???쒕쾭 臾몄젣 ?섏젙",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_header",
+      "definition": "?쒕쾭 臾몄젣 ?섏젙",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_text",
+      "definition": "理쒓렐 ?쒕쾭 臾몄젣濡??명빐 臾몄젣媛 諛쒖깮?????ш낵?쒕┰?덈떎. 紐⑤뱺 臾몄젣媛 ?닿껐?섏뿀?쇰ŉ ?쒕퉬?ㅻ? 怨꾩냽 ?ъ슜?????덉뒿?덈떎.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status_text",
+      "definition": "?꾩옱 ?쇱씠?쇱뒪 ?곹깭??????뚮젮?쒕━怨좎옄 ?⑸땲??:",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_number",
+      "definition": "?붾컮?댁뒪 踰덊샇",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_name",
+      "definition": "?꾨줈洹몃옩紐?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "program_version",
+      "definition": "?꾨줈洹몃옩 踰꾩쟾",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_date",
+      "definition": "泥??ъ슜 ?좎쭨",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "expiration_date",
+      "definition": "留뚮즺 ?좎쭨",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "remaining_days",
+      "definition": "?⑥? ?좎쭨",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_name",
+      "definition": "湲곌린 ?대쫫",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status",
+      "definition": "?쇱씠?좎뒪 ?곹깭",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status1",
+      "definition": "?쒖꽦?붾맖",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_status2",
+      "definition": "鍮꾪솢?깊솕??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "last_update",
+      "definition": "留덉?留??낅뜲?댄듃",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description1",
+      "definition": "?ㅼ쓬 ?먭??쇰줈 ?명빐 ?쒕퉬?ㅺ? 以묐떒???덉젙?낅땲??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description2",
+      "definition": "?먭????꾨즺?????ㅼ떆 ?뺤씤??二쇱떗?쒖삤.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description3",
+      "definition": "遺덊렪???쒕젮 二꾩넚?섎ŉ ?묓빐??二쇱뀛??媛먯궗?⑸땲??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix_description4",
+      "definition": "ChoiceTech 吏?먰?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_title",
+      "definition": "湲곌린媛 ?댁젣 ?쒖꽦?붾릺?덉뒿?덈떎!",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation",
+      "definition": "?ㅼ쓬 ?뺣낫濡??쒖꽦???붿껌???꾨즺?섏뿀?듬땲??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_warning_paragraph",
+      "definition": "?붾컮?댁뒪???섎굹???꾩씠?붾쭔 ?명솚?⑸땲?? ?붾컮?댁뒪 踰덊샇? ?꾩씠?붽? ?쇱튂?섏? ?딆쓣 寃쎌슦, ???ъ슜??李⑤떒?섎?濡??꾩씠?붿? 鍮꾨?踰덊샇 諛??붾컮?댁뒪 踰덊샇瑜?湲곗뼲?섏꽭??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "new_password",
+      "definition": "?덈줈??鍮꾨?踰덊샇",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_password",
+      "definition": "鍮꾨?踰덊샇 ?뺤씤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery",
+      "definition": "鍮꾨?踰덊샇 ?ъ꽕??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_verification",
+      "definition": "鍮꾨?踰덊샇 ?ъ꽕???뺤씤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para1",
+      "definition": "鍮꾨?踰덊샇 ?ъ꽕???붿껌???뺤씤 ?湲?以묒엯?덈떎. ?꾨옒 留곹겕瑜??대┃??二쇱꽭??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_para2",
+      "definition": "??留곹겕???좏슚 湲곌컙? ?섏떊 ?쒖젏遺??12?쒓컙?낅땲??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_recovery_greeting",
+      "definition": "{{name}}??혻{{app_name}}혻?쒕퉬?ㅻ? ?댁슜??二쇱뀛??媛먯궗?⑸땲??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "supoprt_page",
+      "definition": "吏???섏씠吏",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_notice",
+      "definition": "鍮꾨?踰덊샇 ?ъ꽕???뚮┝",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_greeting",
+      "definition": "?덈뀞?섏꽭?붋?{name}}??혻{{app_name}}瑜??댁슜??二쇱뀛??媛먯궗?⑸땲??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para1",
+      "definition": "?ъ슜??怨꾩젙?????鍮꾨?踰덊샇 ?ъ꽕?뺤쓣 ?붿껌?덉뒿?덈떎.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para2",
+      "definition": "?꾩떆 鍮꾨?踰덊샇:혻{{password}}",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_para3",
+      "definition": "鍮꾨?踰덊샇瑜?蹂듭궗?섏뿬 ?댄뵆由ъ??댁뀡??濡쒓렇?명븯?몄슂. ?댄썑 ?ㅼ젙?쇰줈 ?대룞?섏뿬 '留ㅼ옣 ?ъ슜??Salon user)'瑜??대┃?섍퀬 鍮꾨?踰덊샇瑜??ъ꽕?뺥븯?몄슂.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success",
+      "definition": "鍮꾨?踰덊샇 ?ъ꽕???깃났",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "pass_reset_success_para1",
+      "definition": "?뷀샇媛 ?깃났?곸쑝濡??ъ꽕?뺣릺?덉쑝硫??쒕퉬?ㅻ? 怨꾩냽 ?ъ슜?????덉뒿?덈떎.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified",
+      "definition": "?대찓???몄쬆??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para1",
+      "definition": "?대찓??二쇱냼媛 ?깃났?곸쑝濡??몄쬆?섏뿀?듬땲??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_para2",
+      "definition": "李쎌쓣 ?レ쑝?????댁쟾 ?쒕퉬?ㅻ줈 ?뚯븘媛 ?댁슜?섏떎 ???덉뒿?덈떎.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not",
+      "definition": "?대찓??誘몄씤利?,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "email_verified_not_para1",
+      "definition": "?쒖뒪??愿由ъ옄?먭쾶 臾몄쓽??二쇱떗?쒖삤.",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "recover_password_title",
+      "definition": "鍮꾨?踰덊샇 李얘린",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting",
+      "definition": "?덈뀞?섏꽭??({{name}})??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "greeting_no_name",
+      "definition": "?덈뀞?섏꽭??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "no_subject",
+      "definition": "(?쒕ぉ ?놁쓬)",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "signature",
+      "definition": "媛먯궗?⑸땲??<br />{{app_name}}?",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "license_expiration",
+      "definition": "?쇱씠?좎뒪 留뚮즺 ?뚮┝",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "activation_failed",
+      "definition": "?쒖꽦???ㅽ뙣",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "reset_password",
+      "definition": "鍮꾨?踰덊샇 ?ъ꽕??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirmation_email",
+      "definition": "?몄쬆 ?대찓??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "server_issue_fix",
+      "definition": "?쒕쾭 臾몄젣 ?섏젙",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_title",
+      "definition": "{{app_name}} 遺꾩꽍 寃곌낵",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_desc",
+      "definition": "?꾨옒 踰꾪듉???대┃?섏뿬 {{{app_name}}} ?쒕퉬?ㅼ쓽 ?먯꽭??遺꾩꽍 寃곌낵瑜??뺤씤??二쇱꽭??",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "web_result_button",
+      "definition": "寃곌낵 蹂닿린",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_email_subject",
+      "definition": "{{brand}} - ?대찓???뺤씤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_reset_subject",
+      "definition": "{{brand}} - 鍮꾨?踰덊샇 ?ъ꽕???깃났",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "password_recovery_subject",
+      "definition": "{{brand}} - 鍮꾨?踰덊샇 ?ъ꽕??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "device_activation_subject",
+      "definition": "{{brand}} - 湲곌린 ?쒖꽦??,
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "enter_new_password",
+      "definition": "?덈줈??鍮꾨?踰덊샇 ?낅젰",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    },
+    {
+      "term": "confirm_new_password",
+      "definition": "鍮꾨?踰덊샇 ?뺤씤",
+      "context": "",
+      "term_plural": "",
+      "reference": "",
+      "comment": "",
+      "fuzzy": 0
+    }
+  ]
+}
+

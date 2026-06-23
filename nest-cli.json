@@ -1,0 +1,19 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "assets": [
+      {
+        "include": "docs/**/*",
+        "watchAssets": true,
+        "outDir": "dist"
+      },
+      {
+        "include": "**/*.json",
+        "watchAssets": true,
+        "outDir": "dist"
+      }
+    ],
+    "watchAssets": true
+  }
+}

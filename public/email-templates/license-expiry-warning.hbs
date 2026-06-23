@@ -1,0 +1,63 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<html lang="en">
+  <body style="margin:0;padding:0;background-color:#f9fafb;font-family:Arial, sans-serif;">
+    <table align="center" width="100%" style="max-width:600px;margin:auto;padding:20px;background-color:#ffffff;border:1px solid #e5e7eb;border-radius:8px;">
+      <tr>
+        <td style="text-align:center;padding:20px;background-color:#1f2937;color:#ffffff;border-radius:6px 6px 0 0;">
+          <h1 style="margin:0;font-size:20px;letter-spacing:1px;">{{ subject }}</h1>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="padding:20px;color:#111827;">
+          <p style="margin:0 0 10px;font-size:14px;">{{{ greeting }}}</p>
+          <p style="margin:0 0 20px;font-size:14px;">{{ intro_text }}</p>
+
+          <table width="100%" cellpadding="0" cellspacing="0" style="margin:20px 0;border-collapse:collapse;">
+            <tr>
+              <td style="width:33%;padding:10px;">
+                <strong style="font-size:13px;">{{ device_number_lbl }}</strong>
+                <p style="margin:4px 0;font-size:14px;">{{product.device.optic_number}}</p>
+              </td>
+              <td style="width:33%;padding:10px;">
+                <strong style="font-size:13px;">{{ app_name_lbl }}</strong>
+                <p style="margin:4px 0;font-size:14px;">{{app_name}}</p>
+              </td>
+              <td style="width:33%;padding:10px;">
+                <strong style="font-size:13px;">{{ license_name_lbl }}</strong>
+                <p style="margin:4px 0;font-size:14px;">{{product.license.name}}</p>
+              </td>
+            </tr>
+            <tr>
+              <td style="width:33%;padding:10px;">
+                <strong style="font-size:13px;">{{ activation_date_lbl }}</strong>
+                <p style="margin:4px 0;font-size:14px;">{{product.first_use_date}}</p>
+              </td>
+              <td style="width:33%;padding:10px;">
+                <strong style="font-size:13px;">{{ expiration_date_lbl }}</strong>
+                <p style="margin:4px 0;font-size:14px;">{{product.expired_date}}</p>
+              </td>
+              <td style="width:33%;padding:10px;">
+                <strong style="font-size:13px;">{{ remaining_days_lbl }}</strong>
+                <p style="margin:4px 0;font-size:14px;">{{days}}</p>
+              </td>
+              <td style="width:25%;padding:10px;">
+                  <p style="margin:10px 0 0;font-size:14px;">
+                    <strong>{{ license_type_lbl }}:</strong> {{product.license.type}}
+                  </p>
+              </td>
+            </tr>
+          </table>
+
+          <p style="margin:20px 0;font-size:14px;">{{ action_warning_text }}</p>
+        </td>
+      </tr>
+
+      <tr>
+        <td style="padding:16px;background-color:#f3f4f6;text-align:center;color:#6b7280;font-size:12px;border-radius:0 0 6px 6px;">
+          {{ footer_text }} <a href="mailto:{{contact.email}}" style="color:#3b82f6;text-decoration:none;">{{contact.email}}</a>.
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

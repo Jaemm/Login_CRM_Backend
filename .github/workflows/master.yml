@@ -1,0 +1,31 @@
+name: Production Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy-europe:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup SSH
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.GLOBAL_KEY }}
+
+      - name: Deploy to Europe Server
+        run: |
+          ssh -o StrictHostKeyChecking=no ubuntu@13.36.54.183 << 'EOF'
+            set -e
+            cd /home/ubuntu/repositories/BE_nodejs_login_crm_v1
+
+            git fetch origin
+            git reset --hard origin/main
+
+            bash sync.sh
+          EOF
